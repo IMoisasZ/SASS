@@ -10,11 +10,11 @@ Durante o curso, foi criada uma aplicação do tipo **SPA (Single Page Applicati
 
 ## 🗂 Estrutura de Diretórios
 
-A estrutura básica da aplicação está organizada da seguinte forma:
+A estrutura de diretórios está organizada da seguinte forma:
 
-├── css/ # Arquivos CSS compilados
-├── img/ # Imagens utilizadas na aplicação
-└── sass/ # Arquivos-fonte SASS (SCSS)
+- `css/`: Contém os arquivos CSS compilados do projeto.
+- `img/`: Pasta que armazena todas as imagens utilizadas na aplicação.
+- `sass/`: Contém os arquivos-fonte escritos em SASS (SCSS).
 
 ## 🛠 Tecnologias Utilizadas
 
